@@ -11,10 +11,10 @@ namespace Problem_2._Rectangle_Area
             double height = double.Parse(Console.ReadLine());
 
             // We calculate the area
-            double area = height * width;
+            double rectangleArea = height * width;
 
             // Print the result to the console
-            Console.WriteLine($"{area:F2}");
+            Console.WriteLine($"{rectangleArea :F2}");
         }
     }
 }
