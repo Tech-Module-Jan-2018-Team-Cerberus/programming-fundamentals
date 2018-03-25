@@ -664,8 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PENCHEV\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\HP_x360\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -674,20 +673,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\PENCHEV\\source\\repos\\02. Rectangle Area\\problrm_02\\problrm_02.csproj",
+      "projectUniqueName": "C:\\Users\\HP_x360\\Documents\\Software Technologies\\Team Cerberus\\programming-fundamentals\\intro-and-basic-syntax\\02. Rectangle Area\\problrm_02\\problrm_02.csproj",
       "projectName": "problrm_02",
-      "projectPath": "C:\\Users\\PENCHEV\\source\\repos\\02. Rectangle Area\\problrm_02\\problrm_02.csproj",
-      "packagesPath": "C:\\Users\\PENCHEV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PENCHEV\\source\\repos\\02. Rectangle Area\\problrm_02\\obj\\",
+      "projectPath": "C:\\Users\\HP_x360\\Documents\\Software Technologies\\Team Cerberus\\programming-fundamentals\\intro-and-basic-syntax\\02. Rectangle Area\\problrm_02\\problrm_02.csproj",
+      "packagesPath": "C:\\Users\\HP_x360\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP_x360\\Documents\\Software Technologies\\Team Cerberus\\programming-fundamentals\\intro-and-basic-syntax\\02. Rectangle Area\\problrm_02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\PENCHEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\HP_x360\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
